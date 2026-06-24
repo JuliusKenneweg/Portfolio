@@ -164,7 +164,6 @@ export default function ProcessPage() {
           <div>
             <SvgViewer
               src="/images/process-02.svg"
-              alt="Process diagram"
               style={{ minHeight: '280px' }}
             />
           </div>
