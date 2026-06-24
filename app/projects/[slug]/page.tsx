@@ -322,7 +322,7 @@ export default function ProjectPage({ params }: PageProps) {
               key={step.number}
               style={{
                 display: 'grid',
-                gridTemplateColumns: '1fr 2fr',
+                gridTemplateColumns: '1fr 1fr',
                 borderTop: '1px solid var(--hairline)',
               }}
               className="step-grid"
