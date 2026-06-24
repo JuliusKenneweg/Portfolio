@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "3d-print-remote",
+    "year": "2026",
+    "tags": ["Product", "Interaction", "Prototyping"],
+    "heroImage": "/images/project-01-hero.webp",
+    "thumbImage": "/images/project-01-hero.webp",
+    "imageA": "/images/project-01-a.webp",
+    "imageB": "/images/project-01-b.webp",
+    "videoSection": {
+      "video": "/images/project-01-video.mp4"
+    },
+    "interfaceSection": {
+      "items": [
+        { "image": "/images/project-01-gcode.png" },
+        { "image": "/images/project-01-start.png" }
+      ]
+    },
+    "interactionSection": {
+      "items": [
+        { "image": "/images/project-01-interaction-01.webp" },
+        { "image": "/images/project-01-interaction-02.webp" },
+        { "image": "/images/project-01-interaction-03.webp" }
+      ]
+    },
+    "processSteps": [
+      { "number": "01", "image": "/images/project-01-step-01.webp" },
+      { "number": "02", "image": "/images/project-01-step-02.webp" },
+      { "number": "03", "image": "/images/project-01-step-03.webp" }
+    ],
+    "nextProject": "swing"
+  },
+  {
+    "slug": "swing",
+    "year": "2025",
+    "tags": ["Product", "Ergonomics", "3D Print"],
+    "heroImage": "/images/project-02-hero.webp",
+    "thumbImage": "/images/project-02.webp",
+    "imageA": "/images/project-02-a.webp",
+    "imageB": "/images/project-02-b.webp",
+    "imageTextSection": {
+      "image": "/images/project-02-detail.webp"
+    },
+    "gallerySection": {
+      "items": [
+        { "image": "/images/project-02-g1.png" },
+        { "image": "/images/project-02-g2.png" },
+        { "image": "/images/project-02-g3.png" },
+        { "image": "/images/project-02-g4.png" },
+        { "image": "/images/project-02-g5.png" },
+        { "image": "/images/project-02-g6.png" }
+      ]
+    },
+    "prevProject": "3d-print-remote",
+    "nextProject": "gpu-fan-cover"
+  },
+  {
+    "slug": "gpu-fan-cover",
+    "year": "2026",
+    "tags": ["Industrial", "Hardware", "Benchmark"],
+    "heroImage": "/images/project-03-hero.webp",
+    "thumbImage": "/images/project-03.webp",
+    "imageA": "/images/project-03-a.png",
+    "imageB": "/images/project-03-b.webp",
+    "imageTextSection": {
+      "image": "/images/project-03-detail.webp"
+    },
+    "conceptSection": {
+      "items": [
+        { "image": "/images/project-03-concept-01.png" },
+        { "image": "/images/project-03-concept-02.png" }
+      ]
+    },
+    "processSteps": [
+      { "number": "01", "image": "/images/project-03-step-01.png", "contain": true },
+      { "number": "02", "image": "/images/project-03-step-02.png", "contain": true },
+      { "number": "03", "image": "/images/project-03-step-03.png", "contain": true }
+    ],
+    "prevProject": "swing"
+  }
+]

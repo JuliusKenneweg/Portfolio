@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "C:\\Windows\\System32\\cmd.exe",
+      "runtimeArgs": ["/c", "C:\\Portfolio\\start-dev.cmd"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "logo": "E. ——",
+    "work": "Work",
+    "about": "About me",
+    "process": "Process"
+  },
+  "footer": {
+    "logo": "E. ——",
+    "work": "Work",
+    "about": "About",
+    "process": "Process",
+    "location": "Darmstadt, 2026",
+    "cta": "Get in touch →"
+  },
+  "home": {
+    "hero_tag": "Industrial & UX Design · Darmstadt · 2026",
+    "hero_headline": "Hardware, Software, Service — with the human at the center.",
+    "hero_cta_primary": "See projects",
+    "hero_cta_ghost": "Process →",
+    "work_label": "Selected work",
+    "work_title": "Three projects.",
+    "cta_label": "Get in touch",
+    "cta_headline": "Interested in working together?",
+    "cta_subtext": "Whether internship or working student — I'm happy about every inquiry.",
+    "cta_button": "Write me an email",
+    "about_tag": "About me",
+    "about_title": "Julius Kenneweg – Design Student, Darmstadt",
+    "about_text": "I'm in my 6th semester studying Industrial Design at hda in Darmstadt.",
+    "about_link": "Read more →",
+    "process_tag": "Process",
+    "process_title": "How I work",
+    "process_text": "A glimpse into my thoughts while designing — so you can see not only what I can do, but also who I am.",
+    "process_link": "See my process →"
+  },
+  "about": {
+    "label": "About me",
+    "headline": "Julius Kenneweg",
+    "bio_1": "I'm Julius Kenneweg, an Industrial Design student in Darmstadt. I grew up with 2 brothers, 3 cats, and my parents in Berlin-Prenzlauer Berg. I'm now in my 6th semester and looking forward to what comes next.",
+    "bio_2": "I have a strong interest in technical details — and especially in the context of Artificial Intelligence, I find the interaction between humans and increasingly complex technical devices particularly fascinating.",
+    "bio_3": "To experience the daily work of a designer in a professional and technical context, I'm currently looking for an internship or a working student position.",
+    "skills_label": "Skills",
+    "skills": ["Industrial Design", "UX Design", "Interaction Design", "Prototyping", "3D Printing", "Rhino", "Figma/Framer", "KeyShot", "Claude Code/Design"],
+    "education_label": "Student",
+    "contact_label": "Contact",
+    "contact_email": "Julius.kenneweg8@gmail.com"
+  },
+  "process": {
+    "label": "Process",
+    "headline": "Thoughts on designing this portfolio",
+    "intro": "To help you get to know me better as a person, I'd like to give you an insight into my thought process behind building this portfolio.",
+    "goal": {
+      "number": "01 — The goal",
+      "title": "A meaningful portfolio!",
+      "text": "The goal is a working student position or an internship. The question is: how do I get a company to want to hire me? What matters is showing both social competence and technical competence — which is why it's important that my portfolio lets my skills come across."
+    },
+    "medium": {
+      "title": "With which medium do I achieve that?",
+      "subtitle": "How do my skills come across best? And which option is most suitable?",
+      "options": [
+        {
+          "name": "Film",
+          "text": "A website has the advantage of being almost infinitely expandable. With the technical know-how, changes can be made quickly.",
+          "chosen": false
+        },
+        {
+          "name": "PDF Portfolio",
+          "text": "The responsive nature of a website invites you to look closer and spend more time with it. In a digital world, the threshold for getting in touch is very low.",
+          "chosen": false
+        },
+        {
+          "name": "Website",
+          "text": "The clear structure of a website lets content come across elegantly one after another, rather than overwhelming you all at once.",
+          "chosen": true
+        }
+      ]
+    },
+    "differentiate": {
+      "title": "Important for standing out"
+    },
+    "tracks": [
+      { "title": "Showcasing my skills" },
+      { "title": "Showcasing my personality" }
+    ],
+    "conclusion": {
+      "text1": "My projects already show that I put technical competence on the table. The fact that I'm able to code my own website with the help of AI reflects my curiosity for experimentation — as well as my preference for finding a path that isn't necessarily the easiest, but avoids unnecessary effort that leads to the same result.",
+      "text2": "The fact that I'm not a fan of self-promotion is something I use to show my personality. My design choices are naturally an expression of who I am — but I think it's important, in order to stand out from other candidates, to give an insight into my thinking. This section is meant to show what goes through my mind when I design, and to show who I am — not just what I can do."
+    },
+    "organise": {
+      "title": "Everything starts with an idea",
+      "text1": "Ideas come and go. To capture them, I write them down and connect them to other ideas without much order. Depending on their nature, they get a different colour — what emerges is an unorganised pile of ideas linked to even more ideas.",
+      "text2": "Ideas are then structured to create a synoptic overview. This often sparks new ideas that I can immediately note down in connection to the others."
+    }
+  },
+  "project": {
+    "meta_project": "Project",
+    "meta_category": "Category",
+    "meta_tools": "Tools",
+    "meta_year": "Year",
+    "process_label": "Process",
+    "critical_label": "Critical view",
+    "prev_project": "← Previous project",
+    "next_project": "Next project →"
+  },
+  "projects": {
+    "3d-print-remote": {
+      "name": "3D-Print Remote",
+      "category": "Interaction Design",
+      "tools": "Rhino, Prototyping, Arduino",
+      "headline": "Direct control over construction-scale 3D printing.",
+      "shortDesc": "A dedicated device to make technological progress on 3D-printing construction sites tangible for people.",
+      "intro": [
+        "Established construction techniques have their own control elements, while laptops are typically repurposed on site for 3D-printing houses. The goal of the design was to create an interaction element that enables intuitive intervention in the printing process.",
+        "In small-scale printing at home, all environmental conditions can be optimized for the best possible result. On a construction site, however, you have to adapt to the environment. Factors like wind speed, temperature, and humidity play a major role in a successful print."
+      ],
+      "videoSection": {
+        "title": "Demo",
+        "text": "The finished design object with a demonstration film highlighting the key focus areas of my work."
+      },
+      "interfaceSection": {
+        "title": "Interface Details",
+        "items": [
+          { "text": "The home screen displays information about print progress, environmental data, and technical data. The scales on the side provide feedback for the sliders, so the operator can be sure his inputs were correctly registered by the machine. There is a menu for moving the print head, one for starting print sequences, one for concrete mix and weather data, and one for notes to improve communication between planning and execution on site." },
+          { "text": "In the G-Code menu, the operator can select the appropriate print sequence and gets visual feedback in a preview. The choice of whether to move the print head to the start position manually depends on site conditions — since unexpected situations arise frequently, the operator must be able to react flexibly. Every submenu shows environmental information at the bottom to allow for informed responses." }
+        ]
+      },
+      "interactionSection": {
+        "title": "Interface & Interaction",
+        "items": [
+          { "caption": "The button on the left is the emergency stop — the operator can intervene directly when a problem is detected. Next to it is a button for adding annotations to aid in evaluation. The rightmost button steps back in the menu navigation." },
+          { "caption": "The joystick moves the print head along the X and Y axes and can alternatively be used for menu navigation. The jog dial is the primary control element for navigating menus and moving the print head along the Z axis." },
+          { "caption": "The most influential parameters for printing are pump pressure (i.e. material feed rate) and print speed. Since the operator needs constant access to these, they sit at the top of the information hierarchy." }
+        ]
+      },
+      "processSteps": [
+        {
+          "title": "Understanding the workflow",
+          "text": "The operator is responsible for the machine from setup to teardown. He starts and monitors print sequences and serves as the interface to the architects. The device must meet all these demands to genuinely ease his work."
+        },
+        {
+          "title": "Ergonomics",
+          "text": "A comfortable form is important when the operator holds the remote continuously to monitor the printing process. It was important to me that the form is comfortable to hold for extended periods and does not easily slip from the hand."
+        },
+        {
+          "title": "Form development",
+          "text": "The form results from both ergonomic and technical parameters. The arrangement of interaction elements and the housing of sensors and battery are decisive factors in shaping the form."
+        }
+      ],
+      "criticalPoints": [
+        {
+          "title": "Interface design",
+          "text": "The structure is logical and intuitive, but would need more thorough testing and a heuristic evaluation.",
+          "positive": true
+        },
+        {
+          "title": "Design in context",
+          "text": "The object has taken on a very console-like appearance due to its technical components and misses the construction site context."
+        },
+        {
+          "title": "Product graphics",
+          "text": "The controls currently lack distinguishing features. Even though the mapping works, visual confirmation would be required."
+        }
+      ]
+    },
+    "swing": {
+      "name": "Swing",
+      "category": "Product Design",
+      "tools": "Rhino, Grasshopper, Ergonomics",
+      "headline": "A bicycle saddle that moves with you.",
+      "shortDesc": "A split saddle that prevents friction, supports the pedaling motion, and relieves ergonomically critical areas.",
+      "intro": [
+        "Swing is a saddle concept in which the natural movement of the human body during cycling is supported. In conventional bicycle saddles, friction is a long-term problem. Through two freely oscillating saddle halves, friction occurs within the saddle rather than against the skin.",
+        ""
+      ],
+      "imageTextSection": {
+        "title": "Ergonomics",
+        "text": "The illustration shows the problem with ergonomically unoptimized saddles. The perineum is the weak point for many people on longer cycling tours. To place the actual load on the sitting bones, a saddle must avoid pressure in the perineal area — in my case achieved through two separate saddle halves."
+      },
+      "gallerySection": {
+        "captions": [
+          "Depending on the distance between the sitting bones, the gap between the two saddle halves can also be adjusted.",
+          "For varying torso lengths, the distance from saddle to handlebar can be adjusted in different increments.",
+          "Depending on leg length, the distance between saddle and pedal can be adjusted."
+        ]
+      },
+      "criticalPoints": [
+        {
+          "title": "Seating surface pattern",
+          "text": "The Gyroid pattern is very efficient at distributing load, but everyday wear and soiling detract from the visual impression."
+        },
+        {
+          "title": "Manufacturing complexity",
+          "text": "The form is optimized for 3D printing, but this means the sliding friction coefficients at the rail-to-seat-post mount would suffer."
+        },
+        {
+          "title": "Small target group",
+          "text": "The design is not inclusive and targets the more athletic segment of the population that is willing to spend accordingly."
+        }
+      ]
+    },
+    "gpu-fan-cover": {
+      "name": "GPU Fan Cover",
+      "category": "Industrial Design",
+      "tools": "Rhino, 3D Print, Benchmark",
+      "headline": "Airflow optimization for PC cases.",
+      "shortDesc": "A modular fan design that optimizes airflow by angling the fans.",
+      "intro": [
+        "GPU power consumption has risen dramatically over the past 15 years, requiring cooling performance to keep pace. Larger heatsinks and more fans create airflow patterns that interfere with each other — turbulence causes hot air to recirculate through other heatsinks, reducing cooling efficiency. The result: higher fan speeds and louder operation.",
+        "Fans are often the first component to fail in a GPU under continuous use. Since replacement fans aren't available for most models, a failed fan renders the entire card unusable. A modular design fixes this — allowing any standard 92mm fan to be installed."
+      ],
+      "imageTextSection": {
+        "title": "Preparation",
+        "text": "The existing GPU had to be disassembled and analyzed. The PCB was remodeled with fan slots clear of heatsink obstructions and mounting holes for the fan housing. A 3D scan of the existing fan cover was made to avoid exceeding dimensions and to get a better sense of the available space."
+      },
+      "conceptSection": {
+        "title": "Concept",
+        "texts": [
+          "In conventional designs, fans are mounted parallel to the PCB. This causes air to deflect off the board and create turbulence inside the case — hot air recirculates through other heatsinks and is used twice.",
+          "By angling the fans, the airflow gains direction — pushing air toward the rear of the case, where a case fan picks it up and exhausts it without recirculation. The actual temperature improvement happens not at the GPU, but at the CPU, since the hot air is no longer reused."
+        ]
+      },
+      "processLabel": "Benchmark",
+      "processSteps": [
+        {
+          "title": "Baseline",
+          "text": "The original fan cover is tested. Under load, GPU temperature rises sharply and stabilizes at 65°C."
+        },
+        {
+          "title": "Modular fans, non-angled",
+          "text": "Replacing the stock fans with static-pressure-optimized variants is highly effective. Air is pushed through the heatsink fins much more efficiently, reducing temperatures by approximately 10°C. The fans are also quieter at the same RPM."
+        },
+        {
+          "title": "Modular fans, angled",
+          "text": "Temperatures at both CPU and GPU show no change — meaning a 5° tilt is not sufficient."
+        }
+      ],
+      "criticalPoints": [
+        {
+          "title": "Steeper tilt angle",
+          "text": "For the concept to fully take effect, the angle would need to be increased significantly — which would only be efficient if the heatsink and cooling fins also changed shape."
+        },
+        {
+          "title": "Fan replacement",
+          "text": "The difference between fan models is significant: cooling performance and noise both improve, and if a fan fails, it can simply be swapped out.",
+          "positive": true
+        },
+        {
+          "title": "Dependency on coolers",
+          "text": "Many variables affect airflow inside a case — GPU mounting position, CPU cooling type (water/air), and more. To draw meaningful conclusions, more diverse hardware configurations would need to be tested."
+        }
+      ]
+    }
+  }
+}

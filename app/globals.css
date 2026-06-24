@@ -1,0 +1,210 @@
+@import "tailwindcss";
+
+/* ── Design Tokens ─────────────────────────── */
+:root {
+  --ink: #1a1614;
+  --ink-soft: #2e2a28;
+  --cream: #fdfcfb;
+  --surface-soft: #f5f3f1;
+  --surface-card: #edeae7;
+  --surface-dark: #141210;
+  --mute: #7a7370;
+  --body-text: #3d3a38;
+  --hairline: rgba(26, 22, 20, 0.12);
+  --hairline-strong: rgba(26, 22, 20, 0.25);
+}
+
+[data-dark="true"] {
+  --ink: #f0ece8;
+  --ink-soft: #c8c4c0;
+  --cream: #141210;
+  --surface-soft: #1e1b19;
+  --surface-card: #252220;
+  --surface-dark: #0d0b0a;
+  --mute: #6a6360;
+  --body-text: #a09896;
+  --hairline: rgba(240, 236, 232, 0.10);
+  --hairline-strong: rgba(240, 236, 232, 0.20);
+}
+
+/* ── Base ───────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: 'Clash Grotesk', 'Inter', system-ui, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.75;
+  letter-spacing: 0.015em;
+  word-spacing: 0.04em;
+  min-height: 100vh;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+* {
+  cursor: none !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ── Typography Helpers ─────────────────────── */
+.label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+.display {
+  font-size: clamp(26px, 5vw, 44px);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+  color: var(--ink);
+}
+
+.section-title {
+  font-size: clamp(20px, 3vw, 22px);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--ink);
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: 0.01em;
+}
+
+.body-text {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.75;
+  color: var(--body-text);
+}
+
+/* ── Hairline Grid Util ─────────────────────── */
+.hairline-grid {
+  background: var(--hairline-strong);
+  gap: 1px;
+}
+
+.hairline-grid > * {
+  background: var(--cream);
+}
+
+/* ── Section ────────────────────────────────── */
+.section {
+  padding: 56px 32px;
+}
+
+/* ── Buttons ────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 28px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.15s ease, background 0.15s ease;
+  white-space: nowrap;
+  border: none;
+  line-height: 1;
+}
+
+.btn-primary {
+  background: var(--cream);
+  color: var(--ink);
+  border: 1px solid var(--hairline-strong);
+}
+.btn-primary:hover { background: var(--surface-soft); }
+
+.btn-ghost {
+  background: transparent;
+  color: rgba(253, 252, 251, 0.9);
+  border: 1px solid rgba(253, 252, 251, 0.3);
+}
+.btn-ghost:hover { border-color: rgba(253, 252, 251, 0.5); }
+
+.btn-dark {
+  background: var(--ink);
+  color: var(--cream);
+  border: 1px solid var(--ink);
+}
+.btn-dark:hover { opacity: 0.82; }
+
+/* ── Tags ────────────────────────────────────── */
+.tag {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 4px;
+  color: var(--mute);
+  white-space: nowrap;
+}
+
+/* ── Nav ─────────────────────────────────────── */
+.nav-link {
+  display: flex;
+  align-items: center;
+  padding: 0 36px;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--ink);
+  text-decoration: none;
+  border-right: 1px solid var(--hairline);
+  height: 100%;
+  white-space: nowrap;
+  transition: color 0.15s;
+}
+.nav-link:hover { color: var(--mute); }
+
+/* ── Mobile Nav ─────────────────────────────── */
+@media (max-width: 767px) {
+  .nav-desktop-links { display: none !important; }
+  .nav-hamburger { display: flex !important; }
+  .section { padding: 40px 20px; }
+  .hero-headline { font-size: 26px !important; }
+}
+
+@media (min-width: 768px) {
+  .nav-hamburger { display: none !important; }
+  .nav-mobile-drawer { display: none !important; }
+}
+
+/* ── Project Process Step ───────────────────── */
+.critical-block {
+  border-left: 2px solid var(--hairline-strong);
+  padding: 10px 16px;
+  margin-top: 16px;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1.65;
+  color: var(--mute);
+}

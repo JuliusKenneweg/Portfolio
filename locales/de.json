@@ -1,0 +1,253 @@
+{
+  "nav": {
+    "logo": "E. ——",
+    "work": "Projekte",
+    "about": "Über mich",
+    "process": "Prozess"
+  },
+  "footer": {
+    "logo": "E. ——",
+    "work": "Projekte",
+    "about": "Über mich",
+    "process": "Prozess",
+    "location": "Darmstadt, 2026",
+    "cta": "Kontakt aufnehmen →"
+  },
+  "home": {
+    "hero_tag": "Industriedesignstudent · Darmstadt · 2026",
+    "hero_headline": "Hardware, Software, Service — mit dem Menschen im Mittelpunkt",
+    "hero_cta_primary": "Projekte ansehen",
+    "hero_cta_ghost": "Prozess →",
+    "work_label": "Ausgewählte Arbeiten",
+    "work_title": "Drei Projekte.",
+    "cta_label": "Kontakt",
+    "cta_headline": "Interesse an einer Zusammenarbeit?",
+    "cta_subtext": "Ob Praktikum oder Werkstudent — ich freue mich über jede Anfrage.",
+    "cta_button": "E-Mail schreiben",
+    "about_tag": "Über mich",
+    "about_title": "Julius Kenneweg – Industriedesignstudent, Darmstadt",
+    "about_text": "Ich studiere im 6. Semester Industriedesign an der Hochschule Darmstadt.",
+    "about_link": "Mehr erfahren →",
+    "process_tag": "Prozess",
+    "process_title": "Wie ich arbeite",
+    "process_text": "Ein Einblick in meine Gedanken beim Gestalten, sodass Sie nicht nur sehen, was ich kann, sondern auch, wer ich bin."
+  },
+  "about": {
+    "label": "Über mich",
+    "headline": "Julius Kenneweg",
+    "bio_1": "Ich bin Julius Kenneweg, Industriedesign-Student in Darmstadt. Aufgewachsen bin ich mit 2 Brüdern, 3 Katzen und meinen Eltern in Berlin-Prenzlauer Berg. Mittlerweile studiere ich seit 6 Semestern und wünsche mir einen Einblick in das Leben eines Industriedesigners.",
+    "bio_2": "Ich habe großes Interesse an technischen Details und gerade im Umgang mit der Künstlichen Intelligenz finde ich besonders spannend die Interaktion des Menschen mit immer komplexer werdenden technischen Artefakten.",
+    "bio_3": "Um den Arbeitsalltag eines Designers im wirtschaftlichen und technischen Kontext zu erleben, suche ich ein Praktikum oder eine Werkstudentenstelle.",
+    "skills_label": "Fähigkeiten",
+    "skills": ["Industriedesign", "UX-Design", "Interaktionsdesign", "Prototyping", "3D-Printing", "Rhino", "Figma/Framer", "KeyShot", "Claude-Code/Design", "Adobe CC"],
+    "education_label": "Student",
+    "contact_label": "Kontakt",
+    "contact_email": "Julius.kenneweg8@gmail.com"
+  },
+  "process": {
+    "label": "Prozess",
+    "headline": "Gedanken zur Gestaltung des Portfolios",
+    "intro": "Damit Sie mich als Menschen besser kennen, möchte ich Ihnen einen Einblick gewähren in meine Gedankenvorgänge bei der Erarbeitung des Portfolios.",
+    "goal": {
+      "number": "01 — Das Ziel",
+      "title": "Ein aussagekräftiges Portfolio!",
+      "text": "Das Ziel ist eine Werkstudenttätigkeit oder ein Praktikum. Die Frage ist: Wie schaffe ich es, dass ein Unternehmen Lust hat, mich aufzunehmen? Wichtig ist es dementsprechend, eine gewisse Sozialkompetenz sowie technische Kompetenz an den Tag zu legen — also ist es wichtig, dass in meinem Portfolio meine Kompetenzen zur Geltung kommen."
+    },
+    "medium": {
+      "title": "Mit welchem Medium erreiche ich das?",
+      "subtitle": "Wie kommen meine Kompetenzen am besten zur Geltung? Und welche Option eignet sich am besten?",
+      "options": [
+        {
+          "name": "Film",
+          "text": "Eine Website hat den Vorteil, dass sie nahezu unendlich erweitert werden kann. Mit dem technischen Know-how sind Veränderungen schnell getätigt.",
+          "chosen": false
+        },
+        {
+          "name": "PDF-Mappe",
+          "text": "Das responsive Feedback einer Website lädt ein, genauer hinzugucken und mehr Zeit mit dem Medium zu verbringen. In einer digitalen Welt ist die Schwelle zur Kontaktaufnahme sehr klein.",
+          "chosen": false
+        },
+        {
+          "name": "Website",
+          "text": "Durch die übersichtliche Struktur einer Website kommen Medien elegant nacheinander zur Geltung, statt einen direkt zu übermannen.",
+          "chosen": true
+        }
+      ]
+    },
+    "differentiate": {
+      "title": "Wichtig, um mich zu differenzieren"
+    },
+    "tracks": [
+      { "title": "Darstellung meiner Fähigkeiten" },
+      { "title": "Darstellung meiner Persönlichkeit" }
+    ],
+    "conclusion": {
+      "text1": "An meinen Projekten kann man gut erkennen, dass ich technische Kompetenzen an den Tag lege. Da ich mithilfe Künstlicher Intelligenz in der Lage bin, eine eigene Website zu coden, spiegelt das auch meine Experimentierfreude wider — sowie den Fakt, dass ich gerne einen Weg suche, der nicht der einfachste ist, aber auch keinen unnötigen Aufwand betreibt, der zum gleichen Ergebnis führen würde.",
+      "text2": "Den Fakt, dass ich Eigenlob nicht besonders mag, nutze ich zur Darstellung meiner Persönlichkeit. Selbstverständlich ist die Gestaltung Ausdruck der Persönlichkeit — jedoch denke ich, dass es wichtig ist, zur Differenzierung von anderen Kandidaten einen Einblick in meine Gedanken zu geben. Dieser Abschnitt soll zeigen, was ich beim Gestalten denke — und wer ich bin, nicht nur was ich kann."
+    },
+    "organise": {
+      "title": "Alles beginnt mit einer Idee",
+      "text1": "Ideen kommen und gehen. Um sie festzuhalten, schreibe ich sie auf und verknüpfe sie ohne große Ordnung mit anderen Ideen. Je nachdem, welcher Natur sie sind, bekommen sie eine andere Farbe — was entsteht, ist ein unorganisierter Haufen von Ideen mit einer Verbindung zu noch mehr Ideen.",
+      "text2": "Ideen werden danach strukturiert, um einen synchronoptischen Zusammenhang zu bekommen. So entstehen oft neue Ideen, die ich direkt in Verbindung zu den anderen niederschreiben kann."
+    }
+  },
+  "project": {
+    "meta_project": "Projekt",
+    "meta_category": "Kategorie",
+    "meta_tools": "Tools",
+    "meta_year": "Jahr",
+    "process_label": "Prozess",
+    "critical_label": "Kritische Betrachtung",
+    "prev_project": "← Vorheriges Projekt",
+    "next_project": "Nächstes Projekt →"
+  },
+  "projects": {
+    "3d-print-remote": {
+      "name": "3D-Druck-Fernbedienung",
+      "category": "Interaction Design",
+      "tools": "Rhino, Prototyping, Arduino",
+      "headline": "Direkte Kontrolle über 3D-Druck-Baustellen.",
+      "shortDesc": "Ein dediziertes Gerät, um technologischen Fortschritt auf der 3D-Druck-Baustelle für Menschen greifbar zu machen.",
+      "intro": [
+        "Etablierte Techniken im Bauwesen haben ihre eigenen Bedienungselemente, während für das 3D-Drucken von Häusern meistens Laptops auf der Baustelle zweckentfremdet werden. Das Ziel des Entwurfs war es, ein Interaktionselement zu schaffen, welches das intuitive Eingreifen in den Druckprozess ermöglicht.",
+        "Beim kleinformatigen Druck im Hobbyraum zuhause werden sämtliche Umgebungsbedingungen angepasst, um ein möglichst gutes Ergebnis zu erzielen. Auf der Baustelle hingegen muss man sich der Umgebung anpassen. Faktoren wie Luftgeschwindigkeit, Temperatur und Luftfeuchtigkeit spielen eine große Rolle für einen erfolgreichen Druck."
+      ],
+      "videoSection": {
+        "title": "Vorführung",
+        "text": "Das fertig gestaltete Objekt mit Vorführungsfilm, in dem ich die wichtigsten Schwerpunkte meiner Arbeit nenne."
+      },
+      "interfaceSection": {
+        "title": "Interface Details",
+        "items": [
+          { "text": "Der Startbildschirm gibt Informationen über Druckfortschritt, Umgebungsdaten und technische Daten. Die Skalen an der Seite dienen als Feedback für die Schieberegler, damit sich der Maschinist sicher sein kann, dass seine Eingriffe korrekt von der Maschine erfasst worden sind. Es gibt ein Menü zum Verfahren des Druckkopfs, eins für das Starten von Drucksequenzen, eins für Betonzusammensetzung und Wetterdaten sowie eins für Notizen zur besseren Kommunikation zwischen Planung und Ausführung auf der Baustelle." },
+          { "text": "Beim Menüpunkt G-Code kann der Maschinist die passende Drucksequenz auswählen und erhält in einer Vorschau visuelles Feedback. Die Wahl, ob man den Druckkopf selbst zur Startposition verfahren möchte, hängt von der Beschaffenheit der Baustelle ab – da oft Eventualitäten auftreten, soll der Maschinist flexibel reagieren können. In jedem Menüunterpunkt sind unten Informationen zur Umgebung zu sehen, um entsprechend reagieren zu können." }
+        ]
+      },
+      "interactionSection": {
+        "title": "Interface & Interaktion",
+        "items": [
+          { "caption": "Der Taster links ist der Notschalter – der Maschinist kann direkt eingreifen, wenn er ein Problem wahrnimmt. Rechts daneben befindet sich ein Drücker zum Hinzufügen von Hinweisen, die bei der Auswertung helfen sollen. Der Drücker ganz rechts dient dazu, in der Menüführung einen Schritt zurückzugehen." },
+          { "caption": "Der Joystick dient zur Verschiebung des Druckkopfs in der X- und Y-Achse, kann aber auch alternativ für die Menüführung verwendet werden. Das Jogdial ist das Hauptbedienelement für die Navigation in Menüs sowie zur Verschiebung des Druckkopfs auf der Z-Achse." },
+          { "caption": "Die maßgeblich beeinflussenden Parameter für den Druck sind Pumpendruck (also Materialförderungsrate) und Druckgeschwindigkeit. Damit der Maschinist jederzeit Zugriff darauf hat, sind diese in der Informationshierarchie ganz oben." }
+        ]
+      },
+      "processSteps": [
+        {
+          "title": "Arbeitsalltag verstehen",
+          "text": "Der Maschinist ist vom Aufbau bis zum Abbau für die Maschine zuständig. Er startet und überwacht Drucksequenzen und ist gleichzeitig die Schnittstelle zu den Architekten. Das Artefakt muss all diesen Anforderungen gerecht werden, um seinen Job zu erleichtern."
+        },
+        {
+          "title": "Ergonomie",
+          "text": "Eine angenehme Form ist wichtig, wenn der Maschinist die Fernbedienung ständig in der Hand hält, um den Druckprozess zu überwachen. Mir war dabei wichtig, dass die Form sowohl über längere Zeit bequem in der Hand liegt als auch nicht leicht herausrutschen kann."
+        },
+        {
+          "title": "Formgebung",
+          "text": "Die Form ergibt sich aus ergonomischen und technischen Parametern. Die Anordnung von Interaktionselementen sowie das Unterbringen von Sensoren und Akku sind maßgeblich entscheidend für die Formgebung."
+        }
+      ],
+      "criticalPoints": [
+        {
+          "title": "Interface-Gestaltung",
+          "text": "Der Aufbau ist logisch und intuitiv, müsste jedoch ausführlicher getestet und einer heuristischen Evaluation unterzogen werden.",
+          "positive": true
+        },
+        {
+          "title": "Gestaltung im Kontext",
+          "text": "Das Objekt ist aufgrund seiner technischen Komponenten sehr konsolenhaft geworden und verfehlt den Baustellenkontext."
+        },
+        {
+          "title": "Produktgrafik",
+          "text": "Den Bedienelementen fehlt es momentan an Unterscheidungsmerkmalen. Auch wenn das Mapping funktioniert, wäre eine visuelle Bestätigung erforderlich."
+        }
+      ]
+    },
+    "swing": {
+      "name": "Swing",
+      "category": "Produktdesign",
+      "tools": "Rhino, Grasshopper, Ergonomie",
+      "headline": "Dynamisch mitschwingender Fahrradsattel.",
+      "shortDesc": "Ein geteilter Sattel, der Reibung verhindert, die Tretbewegung unterstützt und ergonomisch kritische Bereiche entlastet.",
+      "intro": [
+        "Swing ist ein Sattelkonzept, in dem die natürliche Bewegung des Menschen beim Fahrradfahren unterstützt wird. Bei herkömmlichen Fahrradsatteln ist Reibung auf Dauer ein Problem. Durch zwei frei mitschwingende Sattelhälften findet die Reibung im Sattel statt und nicht an der Haut.",
+        ""
+      ],
+      "imageTextSection": {
+        "title": "Ergonomie",
+        "text": "Auf der Abbildung sehen wir das Problem mit ergonomisch nicht optimierten Sätteln. Das Perineum ist für viele Menschen bei längeren Fahrradtouren die Schwachstelle. Um die eigentliche Last auf die Sitzknochen zu legen, muss ein Sattel die Belastung im Dammbereich vermeiden – in meinem Fall durch zwei einzelne Sattelhälften."
+      },
+      "gallerySection": {
+        "captions": [
+          "Je nach Sitzknochenabstand kann auch der Abstand der einzelnen Sitzhälften zueinander variiert werden.",
+          "Bei unterschiedlicher Oberkörperlänge kann der Abstand von Sattel zum Lenker in unterschiedlichen Stufen eingestellt werden.",
+          "Je nach Beinlänge kann der Abstand zwischen Sattel und Pedal verändert werden."
+        ]
+      },
+      "criticalPoints": [
+        {
+          "title": "Sitzflächenmuster",
+          "text": "Das Gyroid-Muster ist sehr effizient in der Lastverteilung, jedoch ist die alltägliche Abnutzung und Verschmutzung für den visuellen Eindruck beeinträchtigend."
+        },
+        {
+          "title": "Fertigungskomplexität",
+          "text": "Die Form ist für den 3D-Druck optimiert, was jedoch zur Folge hat, dass die Gleitreibungskoeffizienten bei der Reibung der Schiene an der Befestigung der Sattelstange leiden würden."
+        },
+        {
+          "title": "Kleine Zielgruppe",
+          "text": "Das Design ist nicht inklusiv und richtet sich an den sportlicheren Teil der Bevölkerung, der bereit ist, einiges auszugeben."
+        }
+      ]
+    },
+    "gpu-fan-cover": {
+      "name": "GPU-Lüfterabdeckung",
+      "category": "Industriedesign",
+      "tools": "Rhino, 3D-Druck, Benchmark",
+      "headline": "Luftstromoptimierung für PC-Gehäuse.",
+      "shortDesc": "Ein modulares Lüfterdesign, das durch das Anwinkeln der Lüfter den Luftstrom optimiert.",
+      "intro": [
+        "Der Energieverbrauch einer Grafikkarte ist in den letzten 15 Jahren extrem gestiegen, was zur Folge hat, dass die Kühlleistung einer Grafikkarte extrem zunehmen muss. Durch immer größer werdende Kühlkörper und die Verwendung von mehr Lüftern entstehen viele sich untereinander bedingende Luftströme. Diese Turbulenzen führen zur Rezirkulation der Luft durch andere Kühlkörper, wodurch die Kühlleistung sinkt. Daraus folgen höhere Lüfterdrehzahlen, was auch einen höheren Geräuschpegel bedeutet.",
+        "Bei einer Grafikkarte in ständiger Benutzung ermüden die Lüfter oft als Erstes. Da es diese nicht nachzukaufen gibt, ist die Grafikkarte ab dem Moment unbrauchbar. Ein modulares Design kann hier Abhilfe schaffen und dafür sorgen, dass jeder erhältliche 92-mm-Lüfter verbaut werden kann."
+      ],
+      "imageTextSection": {
+        "title": "Vorarbeit",
+        "text": "Die bestehende Grafikkarte musste zerlegt und analysiert werden. Die Platine wurde remodelliert mit kühlkörperfreien Lüftersteckplätzen und Löchern zum Installieren der Lüfterhaube. Ein 3D-Scan der bestehenden Lüfterhaube wurde angefertigt, um Größen nicht zu überschreiten sowie ein zusätzliches Gefühl für die Dimensionen zu bekommen."
+      },
+      "conceptSection": {
+        "title": "Konzept",
+        "texts": [
+          "Bei herkömmlichen Konzepten werden die Lüfter parallel zur Platine angebracht. Das sorgt dafür, dass die Luft an der Platine abprallt und im Gehäuse für Turbulenzen sorgt. Die warme Luft rezirkuliert durch andere Kühlkörper und wird doppelt benutzt.",
+          "Durch die Anwinkelung der Lüfter bekommt die Luft eine Richtung, was sie in den hinteren Bereich des Gehäuses befördert, wo sie von einem Gehäuselüfter aufgegriffen und ohne Rezirkulation im Gehäuse hinaus befördert wird. Die eigentliche Temperaturverbesserung passiert also gar nicht bei der Grafikkarte, sondern beim Prozessor, da die Luft nicht wiederverwendet wird."
+        ]
+      },
+      "processLabel": "Benchmark",
+      "processSteps": [
+        {
+          "title": "Ausgangslage",
+          "text": "Die originale Lüfterhaube wird getestet. Unter Last geht die Temperatur der Grafikkarte extrem nach oben und pegelt sich bei 65 Grad ein."
+        },
+        {
+          "title": "Modulare Lüfter, nicht angewinkelt",
+          "text": "Das Austauschen der Standard-Lüfter mit Lüftern, die auf statischen Druck optimiert sind, ist sehr erfolgreich. Die Luft wird viel effizienter durch die Kühlrippen gedrängt, was die Temperaturen um ungefähr 10 Grad senkt. Ebenso sind die Lüfter bei gleicher Drehzahl leiser."
+        },
+        {
+          "title": "Modulare Lüfter, angewinkelt",
+          "text": "Die Temperaturen verändern sich sowohl bei CPU als auch bei GPU nicht, was bedeutet, dass die Anwinkelung von 5° nicht ausreicht."
+        }
+      ],
+      "criticalPoints": [
+        {
+          "title": "Stärkere Anwinkelung",
+          "text": "Damit meine Idee und mein Konzept erst richtig zum Tragen kommen, müsste der Winkel stärker verändert werden, was wiederum nur effizient wäre, wenn auch der Kühlkörper und die Kühlrippen ihre Form verändern würden."
+        },
+        {
+          "title": "Lüftertausch",
+          "text": "Der Unterschied zwischen den Lüftern ist enorm: Nicht nur sinken Kühlleistung und Betriebslautstärke, sondern wenn die Lüfter kaputt gehen sollten, kann man sie auch einfach ersetzen.",
+          "positive": true
+        },
+        {
+          "title": "Abhängigkeit von Kühlern",
+          "text": "Es gibt viele verschiedene Variablen, die einen Einfluss auf den Luftstrom in einem Gehäuse haben. Je nach Montage der Grafikkarte oder auch nach Art der Kühlung des Prozessors (Wasserkühlung/Luftkühlung) ändert sich einiges. Um wirklich Schlüsse ziehen zu können, brauche ich mehr verschiedene Hardware-Konstellationen."
+        }
+      ]
+    }
+  }
+}
