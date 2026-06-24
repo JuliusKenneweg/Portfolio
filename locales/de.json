@@ -22,7 +22,7 @@
     "work_title": "Drei Projekte.",
     "cta_label": "Kontakt",
     "cta_headline": "Interesse an einer Zusammenarbeit?",
-    "cta_subtext": "Ob Praktikum oder Werkstudent — ich freue mich über jede Anfrage.",
+    "cta_subtext": "Ob Praktikum oder Werkstudententätigkeit — ich freue mich über jede Anfrage.",
     "cta_button": "E-Mail schreiben",
     "about_tag": "Über mich",
     "about_title": "Julius Kenneweg – Industriedesignstudent, Darmstadt",
@@ -30,12 +30,13 @@
     "about_link": "Mehr erfahren →",
     "process_tag": "Prozess",
     "process_title": "Wie ich arbeite",
-    "process_text": "Ein Einblick in meine Gedanken beim Gestalten, sodass Sie nicht nur sehen, was ich kann, sondern auch, wer ich bin."
+    "process_text": "Ein Einblick in meine Gedanken beim Gestalten, sodass Sie nicht nur sehen, was ich kann, sondern auch, wer ich bin.",
+    "process_link": "Zum Prozess →"
   },
   "about": {
     "label": "Über mich",
     "headline": "Julius Kenneweg",
-    "bio_1": "Ich bin Julius Kenneweg, Industriedesign-Student in Darmstadt. Aufgewachsen bin ich mit 2 Brüdern, 3 Katzen und meinen Eltern in Berlin-Prenzlauer Berg. Mittlerweile studiere ich seit 6 Semestern und wünsche mir einen Einblick in das Leben eines Industriedesigners.",
+    "bio_1": "Ich bin Julius Kenneweg, Industriedesignstudent in Darmstadt. Aufgewachsen bin ich mit 2 Brüdern, 3 Katzen und meinen Eltern in Berlin-Prenzlauer Berg. Mittlerweile studiere ich seit 6 Semestern und wünsche mir einen Einblick in das Leben eines Industriedesigners.",
     "bio_2": "Ich habe großes Interesse an technischen Details und gerade im Umgang mit der Künstlichen Intelligenz finde ich besonders spannend die Interaktion des Menschen mit immer komplexer werdenden technischen Artefakten.",
     "bio_3": "Um den Arbeitsalltag eines Designers im wirtschaftlichen und technischen Kontext zu erleben, suche ich ein Praktikum oder eine Werkstudentenstelle.",
     "skills_label": "Fähigkeiten",
@@ -82,7 +83,7 @@
       { "title": "Darstellung meiner Persönlichkeit" }
     ],
     "conclusion": {
-      "text1": "An meinen Projekten kann man gut erkennen, dass ich technische Kompetenzen an den Tag lege. Da ich mithilfe Künstlicher Intelligenz in der Lage bin, eine eigene Website zu coden, spiegelt das auch meine Experimentierfreude wider — sowie den Fakt, dass ich gerne einen Weg suche, der nicht der einfachste ist, aber auch keinen unnötigen Aufwand betreibt, der zum gleichen Ergebnis führen würde.",
+      "text1": "An meinen Projekten kann man gut erkennen, dass ich technische Kompetenzen an den Tag lege. Da ich mithilfe Künstlicher Intelligenz in der Lage bin, eine eigene Website zu coden, spiegelt das auch meine Experimentierfreude wider — sowie den Fakt, dass ich gerne einen Weg suche, der nicht der einfachste ist, aber auch keinen unnötigen Aufwand betreibt, und zum gleichen Ergebnis führen würde.",
       "text2": "Den Fakt, dass ich Eigenlob nicht besonders mag, nutze ich zur Darstellung meiner Persönlichkeit. Selbstverständlich ist die Gestaltung Ausdruck der Persönlichkeit — jedoch denke ich, dass es wichtig ist, zur Differenzierung von anderen Kandidaten einen Einblick in meine Gedanken zu geben. Dieser Abschnitt soll zeigen, was ich beim Gestalten denke — und wer ich bin, nicht nur was ich kann."
     },
     "organise": {
@@ -119,7 +120,7 @@
       "interfaceSection": {
         "title": "Interface Details",
         "items": [
-          { "text": "Der Startbildschirm gibt Informationen über Druckfortschritt, Umgebungsdaten und technische Daten. Die Skalen an der Seite dienen als Feedback für die Schieberegler, damit sich der Maschinist sicher sein kann, dass seine Eingriffe korrekt von der Maschine erfasst worden sind. Es gibt ein Menü zum Verfahren des Druckkopfs, eins für das Starten von Drucksequenzen, eins für Betonzusammensetzung und Wetterdaten sowie eins für Notizen zur besseren Kommunikation zwischen Planung und Ausführung auf der Baustelle." },
+          { "text": "Der Startbildschirm gibt Informationen über Druckfortschritt, Umgebungsdaten und technische Daten. Die Skalen an den Seiten dienen als Feedback für die Schieberegler, damit sich der Maschinist sicher sein kann, dass seine Eingriffe korrekt von der Maschine erfasst worden sind. Es gibt ein Menü zum Verfahren des Druckkopfs, eins für das Starten von Drucksequenzen, eins für Betonzusammensetzung und Wetterdaten sowie eins für Notizen zur besseren Kommunikation zwischen Planung und Ausführung auf der Baustelle." },
           { "text": "Beim Menüpunkt G-Code kann der Maschinist die passende Drucksequenz auswählen und erhält in einer Vorschau visuelles Feedback. Die Wahl, ob man den Druckkopf selbst zur Startposition verfahren möchte, hängt von der Beschaffenheit der Baustelle ab – da oft Eventualitäten auftreten, soll der Maschinist flexibel reagieren können. In jedem Menüunterpunkt sind unten Informationen zur Umgebung zu sehen, um entsprechend reagieren zu können." }
         ]
       },
@@ -153,7 +154,7 @@
         },
         {
           "title": "Gestaltung im Kontext",
-          "text": "Das Objekt ist aufgrund seiner technischen Komponenten sehr konsolenhaft geworden und verfehlt den Baustellenkontext."
+          "text": "Das Objekt ist aufgrund seiner technischen Komponenten sehr konsolenhaft geworden und müsste für eine realistische Baustellensituation resistenter gegen Dreck und Feutchtigkeit sein."
         },
         {
           "title": "Produktgrafik",
@@ -215,7 +216,7 @@
         "title": "Konzept",
         "texts": [
           "Bei herkömmlichen Konzepten werden die Lüfter parallel zur Platine angebracht. Das sorgt dafür, dass die Luft an der Platine abprallt und im Gehäuse für Turbulenzen sorgt. Die warme Luft rezirkuliert durch andere Kühlkörper und wird doppelt benutzt.",
-          "Durch die Anwinkelung der Lüfter bekommt die Luft eine Richtung, was sie in den hinteren Bereich des Gehäuses befördert, wo sie von einem Gehäuselüfter aufgegriffen und ohne Rezirkulation im Gehäuse hinaus befördert wird. Die eigentliche Temperaturverbesserung passiert also gar nicht bei der Grafikkarte, sondern beim Prozessor, da die Luft nicht wiederverwendet wird."
+          "Durch die Neigung der Lüfter bekommt die Luft eine Richtung, was sie in den hinteren Bereich des Gehäuses befördert, wo sie von einem Gehäuselüfter aufgegriffen und ohne Rezirkulation im Gehäuse hinaus befördert wird. Die eigentliche Temperaturverbesserung passiert also gar nicht bei der Grafikkarte, sondern beim Prozessor, da die Luft nicht wiederverwendet wird."
         ]
       },
       "processLabel": "Benchmark",
@@ -225,22 +226,22 @@
           "text": "Die originale Lüfterhaube wird getestet. Unter Last geht die Temperatur der Grafikkarte extrem nach oben und pegelt sich bei 65 Grad ein."
         },
         {
-          "title": "Modulare Lüfter, nicht angewinkelt",
+          "title": "Modulare Lüfter, nicht geneigt",
           "text": "Das Austauschen der Standard-Lüfter mit Lüftern, die auf statischen Druck optimiert sind, ist sehr erfolgreich. Die Luft wird viel effizienter durch die Kühlrippen gedrängt, was die Temperaturen um ungefähr 10 Grad senkt. Ebenso sind die Lüfter bei gleicher Drehzahl leiser."
         },
         {
-          "title": "Modulare Lüfter, angewinkelt",
-          "text": "Die Temperaturen verändern sich sowohl bei CPU als auch bei GPU nicht, was bedeutet, dass die Anwinkelung von 5° nicht ausreicht."
+          "title": "Modulare Lüfter, geneigt",
+          "text": "Die Temperaturen verändern sich sowohl bei CPU als auch bei GPU nicht, was bedeutet, dass die Neigung von 5° nicht ausreicht."
         }
       ],
       "criticalPoints": [
         {
-          "title": "Stärkere Anwinkelung",
+          "title": "Stärkere Neigung",
           "text": "Damit meine Idee und mein Konzept erst richtig zum Tragen kommen, müsste der Winkel stärker verändert werden, was wiederum nur effizient wäre, wenn auch der Kühlkörper und die Kühlrippen ihre Form verändern würden."
         },
         {
           "title": "Lüftertausch",
-          "text": "Der Unterschied zwischen den Lüftern ist enorm: Nicht nur sinken Kühlleistung und Betriebslautstärke, sondern wenn die Lüfter kaputt gehen sollten, kann man sie auch einfach ersetzen.",
+          "text": "Der Unterschied zwischen den Lüftern ist enorm: Nicht nur sinken Kühlleistung und Betriebslautstärke, sondern wenn die Lüfter kaputt gehen sollten, können sie einfach ersetzen werden.",
           "positive": true
         },
         {

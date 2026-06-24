@@ -178,7 +178,7 @@ export default function HomePage() {
         style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', borderBottom: '1px solid var(--hairline)' }}
       >
         {/* About card */}
-        <div className="section" style={{ paddingTop: '40px', paddingBottom: '40px' }}>
+        <div className="section" style={{ paddingTop: '40px', paddingBottom: '40px', display: 'flex', flexDirection: 'column' }}>
           <ImagePlaceholder
             src="/images/portrait.webp"
             alt="Portrait"
@@ -207,6 +207,7 @@ export default function HomePage() {
               lineHeight: 1.7,
               color: 'var(--body-text)',
               marginBottom: '20px',
+              flex: 1,
             }}
           >
             {t.home.about_text}
@@ -217,7 +218,7 @@ export default function HomePage() {
         </div>
 
         {/* Process card */}
-        <div className="section" style={{ paddingTop: '40px', paddingBottom: '40px' }}>
+        <div className="section" style={{ paddingTop: '40px', paddingBottom: '40px', display: 'flex', flexDirection: 'column' }}>
           <ImagePlaceholder
             src="/images/process.mp4"
             alt="Process"
@@ -246,6 +247,7 @@ export default function HomePage() {
               lineHeight: 1.7,
               color: 'var(--body-text)',
               marginBottom: '20px',
+              flex: 1,
             }}
           >
             {t.home.process_text}
