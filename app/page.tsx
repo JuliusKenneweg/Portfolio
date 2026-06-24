@@ -78,7 +78,7 @@ export default function HomePage() {
         {/* Right image */}
         <div style={{ overflow: 'hidden', minHeight: '400px' }} className="hero-image-col">
           <ImagePlaceholder
-            src="/images/project-01.webp"
+            src="/images/project-01-preview.webp"
             alt="Hero image"
             height="100%"
             label="Hero Image"
