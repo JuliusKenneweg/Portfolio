@@ -189,6 +189,7 @@ h1, h2, h3, h4 {
 @media (max-width: 767px) {
   .nav-desktop-links { display: none !important; }
   .nav-hamburger { display: flex !important; }
+  .nav-name { display: none !important; }
   .section { padding: 40px 20px; }
   .hero-headline { font-size: 26px !important; }
 }

@@ -50,6 +50,11 @@ export default function Nav() {
 
   return (
     <>
+      <style>{`
+        @media (max-width: 767px) {
+          .nav-name { display: none !important; }
+        }
+      `}</style>
       <nav
         style={{
           height: '88px',
@@ -92,7 +97,7 @@ export default function Nav() {
               )}
             </div>
 
-            <div style={{ display: 'flex', alignItems: 'center', padding: '0 36px 0 12px', height: '100%' }}>
+            <div className="nav-name" style={{ display: 'flex', alignItems: 'center', padding: '0 36px 0 12px', height: '100%' }}>
               <span style={{ fontSize: '14px', fontWeight: 400, color: 'var(--ink)', whiteSpace: 'nowrap' }}>
                 Julius Kenneweg
               </span>
